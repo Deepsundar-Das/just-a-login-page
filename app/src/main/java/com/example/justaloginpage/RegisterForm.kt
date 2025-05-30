@@ -47,7 +47,9 @@ fun RegisterForm() {
     val lightGreen = Color(0xFFeeff3f)
     val lightGrey = Color(0xFFdedfe0)
     Column() {
+
         Column {
+
             Text(
                 text = "Full Name",
                 fontSize = 18.sp,

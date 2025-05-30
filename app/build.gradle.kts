@@ -58,7 +58,9 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation (libs.material3)
     implementation(libs.androidx.material.icons.extended)
-    implementation(platform(libs.androidx.compose.bom.v20250501))
-    implementation(libs.androidx.navigation3)
-    implementation(libs.androidx.lifecycle.viewmodel.navigation3.android)
+//    implementation(libs.accompanist.scrollbar)
+
+//    implementation(platform(libs.androidx.compose.bom.v20250501))
+//    implementation(libs.androidx.navigation3)
+//    implementation(libs.androidx.lifecycle.viewmodel.navigation3.android)
 }
